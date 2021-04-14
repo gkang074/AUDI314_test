@@ -16,6 +16,6 @@ function loaded() {
 
 function draw() {
   background(random(255));
-  song.pan(sliderPan.value());
-  song.rate(sliderRate.value());
+  //song.pan(sliderPan.value());
+  //song.rate(sliderRate.value());
 }
